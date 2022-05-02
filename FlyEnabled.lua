@@ -1,6 +1,6 @@
 --Not made by me
 --By lindsay on v3rmillion
-_G.FLYING = ture
+_G.FLYING = true
 local LP = game:service('Players').LocalPlayer
 local T = LP.Character.UpperTorso
 local CONTROL = {F = 0, B = 0, L = 0, R = 0}
